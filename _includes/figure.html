@@ -1,8 +1,9 @@
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
 
-<figure>
+<figure style="margin-bottom:0">
 
   <picture>
+    {% comment %}
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
       <source 
@@ -12,6 +13,7 @@
       />
     {% endfor -%}
     {% endif %}
+    {% endcomment %}
 
     <!-- Fallback to the original file -->
     <img 

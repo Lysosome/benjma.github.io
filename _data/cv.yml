@@ -2,96 +2,63 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Benjamin Ma
+    - name: Location
+      value: Kendall Square, Cambridge, MA
     - name: Languages
-      value: English, German
+      value: English <i>(native)</i>, Chinese <i>(conversational)</i>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Management Science, Global Affairs
+      institution: Schwarzman College, Tsinghua University, Beijing, China
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Guffey Family Fellow in Schwarzman Scholars, a one-year master’s degree and leadership program founded by Steve Schwarzman, CEO and co-founder of Blackstone Group
+        - Conducted automated collection, feature extraction, and correlational analysis of top Chinese and Western popular music, and interviewed music industry insiders, to investigate cross-cultural pop music exchange
+    - title: M.S., Computer Science | B.S., Computer Science | Minor, Music Production
+      institution: University of Southern California, Los Angeles, California
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated Summa Cum Laude with Discovery Scholar distinction for Outstanding Research
+        - USC Viterbi Engineering Fellowship recipient (top 5% of USC engineering students)
+        - Studied music production and music industry in Thornton School of Music and Free Artists Matchmakers
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Development Engineer
+      institution: Amazon Alexa, Cambridge, MA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Managed engineering group responsible for Blitz Hand-Authoring, an Alexa-internal tool for language engineers to create natural language rules guiding Alexa voice interactions
+        - Designed system architecture and component interaction model for Blitz Hand-Authoring, including API contracts, NoSQL data storage, AWS Lambda execution environment, and React/Redux front-end
+        - Iteratively created Blitz Hand-Authoring front-end UI via hand-crafted Balsamiq wireframes, integrating continuous feedback from Alexa language engineers and localization specialists in the U.S., Europe, and India
+        - Performed investigation & audit of high-severity service outage using AWS Cloudwatch metrics, logs, and post-mortem interviews.
+        - Conducted full-stack design, implementation, and testing of a highly scalable utterance search engine, achieving a 13x search speedup over baseline by incorporating an Elasticsearch index on AWS DynamoDB
+    - title: AI Research Scientist Intern
+      institution: Deep Music, Beijing, China
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Designed and built conditional generation transformer model for simultaneous musical generation of melody and Chinese-language lyrics
+        - Adapted mT5 multi-lingual text transformer architecture with custom tokens, callbacks, and loss function to support generation of both text and musical notes; conducted training experiments in Pytorch comparing fine-tuning a pre-trained mT5 model against training from scratch
+        - Experimented with different transformations and representation formats for in-house music dataset, and wrote Python scripts to efficiently convert between dense and sparse MIDI representations
+    - title: Researcher
+      institution: USC Signal Analysis & Interpretation Lab (SAIL), Los Angeles, CA
+      year: 2017-2021
       description:
+        - Led SAIL’s music research group investigating characteristic music of major film genres, leading to publication in PLoS ONE, peer-reviewed journal of the Public Library of Science
+        - Built multivariate classical and deep machine learning models to forecast human responses to music
+        - Wrote Python scripts to automatically clean and collect features for millions of songs from online datasets
+        - Achieved top-of-leaderboard and received Distinctive Mention at 2020 MediaEval Emotions & Themes in Music Challenge for the task of building a model to recognize emotion tags for musical clips
+        - Developed novel AI interpretability techniques to determine the most relevant musical features for eliciting enjoyment in happy and sad music
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Additional Information
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Founder of DJ Lysosome, interactive music production video channel and mobile event DJ service
+    - Captain, Schwarzman College and USC Ultimate Frisbee Clubs
+

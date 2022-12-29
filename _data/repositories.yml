@@ -1,11 +1,7 @@
-github_users:
-  - lysosome
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - usc-sail/media-eval-2020
+  - usc-sail/predicting-human-reported-enjoyment-in-music
+  - usc-sail/M3BERT
+  - Lysosome/Chord-Utilities
+  - Lysosome/Quick-Key-Detection-From-Chords
+  - Lysosome/WhatWouldKanyeSay
