@@ -17,12 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 What can music do to bring the world together?
 
-With skills in software engineering, machine learning, academic research, team management, and music production, my goal is to promote human wellness and international relationships through **cross-cultural music sharing**.
+With skills in software engineering, machine learning, academic research, team management, and music production, my goal is to promote international relationships through **cross-cultural music sharing**.
 
-I'm currently wrapping up a stint as a feature-authoring software engineer for Amazon Alexa, following my year-long study of U.S.-China music exchange as a Schwarzman Scholar at Tsinghua University in Beijing. I'm looking for my next Boston-based or remote role in the music tech or startup space, to work towards my eventual goal of **founding a music tech startup**.
+I conducted music emotion recognition research using machine learning techniques at **[USC CCMI](https://sail.usc.edu/~ccmi/)**, then joined **[Schwarzman Scholars](https://www.schwarzmanscholars.org/)** in 2021-22 to study U.S.-China popular music exchange at Tsinghua University in Beijing. In 2022, I joined **Amazon Alexa** as a software development engineer, working on NLU conversation flow intelligence.
 
 ---
-
-*Previously*: Amazon Alexa, [USC Center for Computational Media Intelligence](https://sail.usc.edu/~ccmi/), [Schwarzman Scholars](https://www.schwarzmanscholars.org/).
 
 Based in Kendall Square, Cambridge, Massachusetts.
