@@ -1,4 +1,9 @@
 # al-folio
+
+## Deployment instructions for Ben
+
+If you need to refresh the medium article feed, you'll need to re-trigger the build and deploy from here. Make a small change (e.g. to this file), git commit and push. Then on the Github repo online -> Actions make sure it worked. If it didn't, you can redeploy from there with Settings tab -> Pages on sidebar and there should be a button to redeploy somewhere.
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
