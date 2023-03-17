@@ -1,14 +1,17 @@
 ---
 layout: page
-title: podcast
+title: export the sound
 permalink: /podcast/
-description: '<b>export the sound</b>: how the industry moves music across borders, as told by the teams behind some of the most successful cross-cultural musicians. episodes coming soon.'
+description: 'A podcast exploring how the industry moves music across borders, as told by the teams behind some of the most successful cross-cultural musicians.'
 nav: true
 nav_order: 2
 horizontal: false
 ---
 
 <!-- pages/podcast.md -->
+<p>
+ Season 1 episodes releasing biweekly. Follow on <a href="https://podcasters.spotify.com/pod/show/export-the-sound">Spotify</a> or <a href="https://podcasts.apple.com/us/podcast/export-the-sound/id1677755225">Apple Podcasts</a>.
+</p>
 <div class="projects">
 
 {%- assign sorted_projects = site.podcast_episodes | sort: "importance" -%}
