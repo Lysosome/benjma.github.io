@@ -19,7 +19,7 @@ What can music do to bring the world together?
 
 With skills in software engineering, machine learning, academic research, team management, and music production, my goal is to promote international relationships through **cross-cultural music sharing**.
 
-I conducted music emotion recognition research using machine learning techniques at **[USC CCMI](https://sail.usc.edu/~ccmi/)**, then joined **[Schwarzman Scholars](https://www.schwarzmanscholars.org/)** in 2021-22 to study U.S.-China popular music exchange at Tsinghua University in Beijing. In 2022, I joined **Amazon Alexa** as a software development engineer, working on NLU conversation flow intelligence.
+I conducted music emotion recognition research using machine learning techniques at **[USC CCMI](https://sail.usc.edu/~ccmi/)**, then joined **[Schwarzman Scholars](https://www.schwarzmanscholars.org/)** in 2021-22 to study U.S.-China popular music exchange at Tsinghua University in Beijing. In 2022, I joined **Amazon Alexa** as a software development engineer, working on NLU conversation flow intelligence. In 2023, I left Amazon to join music tech startup **[Rivet](rivet.app)** as their first full-stack software engineer, developing a fan engagement platform to guide and empower independent music artists in building their fan communities.
 
 ---
 
