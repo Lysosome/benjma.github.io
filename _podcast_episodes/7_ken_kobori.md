@@ -4,5 +4,5 @@ title: Ken Kobori, on Japanese & Korean music industry collaboration with Wester
 description: 
 img: "assets/img/Ken Kobori cover.jpg"
 redirect: https://open.spotify.com/episode/0jpUfyfd7fzrzY2W1OQoys
-importance: 7
+importance: 9
 ---
