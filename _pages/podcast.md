@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- pages/podcast.md -->
 <p>
- Season 1 episodes releasing biweekly. Follow on <a href="https://podcasters.spotify.com/pod/show/export-the-sound">Spotify</a> or <a href="https://podcasts.apple.com/us/podcast/export-the-sound/id1677755225">Apple Podcasts</a>.
+ Follow on <a href="https://podcasters.spotify.com/pod/show/export-the-sound">Spotify</a> or <a href="https://podcasts.apple.com/us/podcast/export-the-sound/id1677755225">Apple Podcasts</a>.
 </p>
 <div class="projects">
 
