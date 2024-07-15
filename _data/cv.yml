@@ -29,9 +29,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Software Engineer
+      institution: Rivet, Chicago, IL
+      year: 2023-now
+      description:
+        - Everything. It's a 4-person startup.
     - title: Software Development Engineer
       institution: Amazon Alexa, Cambridge, MA
-      year: 2022
+      year: 2022-2023
       description:
         - Managed engineering group responsible for Blitz Hand-Authoring, an Alexa-internal tool for language engineers to create natural language rules guiding Alexa voice interactions
         - Designed system architecture and component interaction model for Blitz Hand-Authoring, including API contracts, NoSQL data storage, AWS Lambda execution environment, and React/Redux front-end
